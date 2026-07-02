@@ -13,7 +13,7 @@ const skills = [
 
 const Skills = () => {
   return (
-    // 🔥 IMPORTANT: id="skills"
+    // 🔥 IMPORTANT: id="skillss"
     <section
       id="skills"
       className="min-h-screen px-6 py-20 relative overflow-hidden"
